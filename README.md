@@ -1,6 +1,6 @@
 - Hi there, I’m Kinshuk3 👋
 - 👀 I’m interested in web evelopment
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Web designing and development
 - 💞️ I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Getting AWS certified
 - ⚡ Fun fact: I love to travel and walk my pet
