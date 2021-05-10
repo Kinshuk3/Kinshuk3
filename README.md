@@ -5,6 +5,8 @@
 - 🥅 2021 Goals: Getting AWS certified
 - ⚡ Fun fact: I love to travel and walk my pet
 
+![](https://komarev.com/ghpvc/?username=Kinshuk3&color=ff69b4&style=plastic)
+
 ### Connect with me:
 [<img align="left" alt="Kinshuk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kinshuk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
