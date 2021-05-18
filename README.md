@@ -26,7 +26,7 @@
 ![Kinshuk's github stats](https://github-readme-stats.vercel.app/api?username=Kinshuk3&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinshuk3&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-### Connect with me:
+### Connect with me : <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Handshake.gif" height="30px">
 [<img alt="HackerRank" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/HackerRank.svg" />][website]
 [<img  alt="Linkedin" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Linkedin.svg" />][linkedin]
 [<img alt="Instagram" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Instagram.svg" />][instagram]
