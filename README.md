@@ -1,17 +1,11 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> About Me:
+# Hi there! <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Earth.gif" width="29px">
+### <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Developer.gif" width="40px"> About Me:
 - 🏦 I'm a 3rd year CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Software Engineering and full stack web development
 - 🌱 I’m currently Exploring data structres, algorithms and cloud computing
 - 💞️ I’m looking to collaborate with other creators
 - 🥅 2021 Goals: Getting AWS certified
 - ⚡ Fun fact: I love to travel and walk my pet
-
-### Connect with me:
-[<img alt="Kinshuk" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img  alt="Kinshuk | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img alt="KinshukChadha | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
 
 ### Languages and Tools:
 <p align="center">
@@ -32,6 +26,16 @@
 ![Kinshuk's github stats](https://github-readme-stats.vercel.app/api?username=Kinshuk3&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinshuk3&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+### Connect with me:
+[<img alt="HackerRank" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/HackerRank.svg" />][website]
+[<img  alt="Linkedin" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Linkedin.svg" />][linkedin]
+[<img alt="Instagram" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Instagram.svg" />][instagram]
+[<img alt="Gmail" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Gmail.svg" />][Gmail]
+
+<br />
+
+
 [website]: https://www.hackerrank.com/kinshukchadha
 [instagram]: https://www.instagram.com/kinshuk.chadha
 [linkedin]: https://www.linkedin.com/in/kinshuk-chadha-03/
+[Gmail]: mailto:kinshukchadha@gmail.com
