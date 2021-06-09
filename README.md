@@ -2,7 +2,7 @@
 ### <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Developer.gif" width="40px"> About Me:
 - 🏦 I'm a 3rd year CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Software Engineering and full stack web development
-- 🌱 I’m currently Exploring data structres, algorithms and cloud computing
+- 🌱 I’m currently Exploring data structres, algorithms and working on Full stack projects.
 - 💞️ I’m looking to collaborate with other creators
 - 🥅 2021 Goals: Getting AWS certified
 - ⚡ Fun fact: I love to travel and walk my pet
