@@ -1,10 +1,9 @@
 # Hi there! <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Earth.gif" width="29px">
 ### <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Developer.gif" width="40px"> About Me:
-- 🏦 I'm a 4th year CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👀 I’m interested in Software Engineering and full stack web development
-- 🌱 I’m currently Exploring data structres, algorithms and working on Full stack projects.
-- 💞️ I’m looking to collaborate with other creators
-- 🥅 2023 Goals: Working for a software company upon graduating
+- 🏦 I'm a Recent Bsc. CS graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👀 I’m interested in Software Engineering, full stack web development, Business, and Data analyst roles
+- 🌱 I’m currently Exploring Cloud, Full stack projects and 
+- 🥅 2023 Goals: Finding a company to grow with and learn exciting things
 - ⚡ Fun fact: I love to travel and walk my pet
 
 ### Languages and Tools:
