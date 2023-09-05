@@ -1,8 +1,8 @@
 # Hi there! <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Earth.gif" width="29px">
 ### <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Developer.gif" width="40px"> About Me:
-- 🏦 I'm a Recent Bsc. CS graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a Recent BSc. CS graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in Software Engineering, full stack web development, Business, and Data analyst roles
-- 🌱 I’m currently Exploring Cloud, Full stack projects and 
+- 🌱 I’m currently Exploring Cloud, Full stack projects, and whatever challenge that comes to my mind.
 - 🥅 2023 Goals: Finding a company to grow with and learn exciting things
 - ⚡ Fun fact: I love to travel and walk my pet
 
@@ -28,13 +28,11 @@
 ### Connect with me : <img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Handshake.gif" height="30px">
 [<img alt="HackerRank" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/HackerRank.svg" />][website]
 [<img  alt="Linkedin" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Linkedin.svg" />][linkedin]
-[<img alt="Instagram" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Instagram.svg" />][instagram]
 [<img alt="Gmail" width="40px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Gmail.svg" />][Gmail]
 
 <br />
 
 
 [website]: https://www.hackerrank.com/kinshukchadha
-[instagram]: https://www.instagram.com/kinshuk.chadha
 [linkedin]: https://www.linkedin.com/in/kinshuk-chadha-03/
 [Gmail]: mailto:kinshukchadha@gmail.com
