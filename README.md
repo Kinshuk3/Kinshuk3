@@ -1,4 +1,4 @@
-# Hi there! [<img alt="HackerRank" title="HackerRank" width="30px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Earth.gif" />][Earth]
+# Hi there! [<img alt="Earth" width="30px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Earth.gif" />][Earth]
 ###  About Me: [<img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Designer.gif" width="40px" />][Dev]
 
 - 🏦 I'm a Recent BSc. CS graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
