@@ -1,7 +1,7 @@
 # Hi there! [<img alt="Earth" width="30px" src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Earth.gif" />][Earth]
 ###  About Me: [<img src="https://github.com/Kinshuk3/Kinshuk3/blob/main/assets/Designer.gif" width="40px" />][Dev]
 
-- 🏦 I'm a curious cat currently exploring the world of Software development, AI, and the Cloud. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a curious cat currently exploring the world of Software development, Consulting, AI, and the Cloud. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👀 I’m interested in anything and everything involving Tech.
 - 🥅 2024 Goal: Join an innovative company to work and grow with.
 - ⚡ Fun fact: I love to walk my pet, practice calisthenics, and travel.
